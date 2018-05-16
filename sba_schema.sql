@@ -1,3 +1,6 @@
+CREATE DATABASE `CollegeManagementSystem`;
+USE CollegeManagementSystem;
+
 DROP TABLE IF EXISTS `department`;
 CREATE TABLE `department` (
     id INT(9) PRIMARY KEY NOT NULL,
