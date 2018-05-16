@@ -36,9 +36,9 @@ You will not be able to proceed with this assignment until all INSERT statements
 
 **C.** Quite a few students have been complaining that the professors are absent from some of their courses.
 
-**1.** Write a query to list the names of all courses where the # of faculty assigned to those courses is zero. The output should be in alphabetical order by course name.
+⋅⋅⋅**1.** Write a query to list the names of all courses where the # of faculty assigned to those courses is zero. The output ⋅⋅⋅should be in alphabetical order by course name.
 
-**2.** Using the above, write a query to list the course names and the # of students in those courses for all courses where there are no assigned faculty. The output should be ordered first by # of students descending and then by course name ascending.
+⋅⋅⋅**2.** Using the above, write a query to list the course names and the # of students in those courses for all courses where ⋅⋅⋅there are no assigned faculty. The output should be ordered first by # of students descending and then by course name ⋅⋅⋅ascending.
 
  
 
@@ -60,13 +60,13 @@ You will not be able to proceed with this assignment until all INSERT statements
 
 **H.** Faculty are awarded bonuses based on the progress made by students in their courses.
 
-**1.** Write a query to list each Course Name and the Average Progress of students in that course. The output should be sorted descending by average progress.
+⋅⋅⋅**1.** Write a query to list each Course Name and the Average Progress of students in that course. The output should be ⋅⋅⋅sorted descending by average progress.
 
-**2.** Write a query that selects the maximum value of the average progress reported by the previous query.
+⋅⋅⋅**2.** Write a query that selects the maximum value of the average progress reported by the previous query.
 
-**3.** Write a query that outputs the faculty First Name, Last Name, and average of the progress (“Avg. Progress”) made in each of their courses.
+⋅⋅⋅**3.** Write a query that outputs the faculty First Name, Last Name, and average of the progress (“Avg. Progress”) made in ⋅⋅⋅each of their courses.
 
-**4.** Write a query just like #3, but where only those faculty where average progress in their courses is 90% or more of the maximum observed in #2.
+⋅⋅⋅**4.** Write a query just like #3, but where only those faculty where average progress in their courses is 90% or more of ⋅⋅⋅the maximum observed in #2.
 
  
 
@@ -74,15 +74,15 @@ You will not be able to proceed with this assignment until all INSERT statements
 
  
 
-Progress < 40: F
+⋅⋅⋅Progress < 40: F
 
-Progress < 50: D
+⋅⋅⋅Progress < 50: D
 
-Progress < 60: C
+⋅⋅⋅Progress < 60: C
 
-Progress < 70: B
+⋅⋅⋅Progress < 70: B
 
-Progress >= 70: A
+⋅⋅⋅Progress >= 70: A
 
  
 
