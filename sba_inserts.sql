@@ -1,6 +1,3 @@
-CREATE DATABASE `CollegeManagementSystem`;
-USE CollegeManagementSystem;
-
 /* Insertions for table department */
 insert into department (id,name) values (1,'Arts & Design');
 insert into department (id,name) values (2,'Business');
